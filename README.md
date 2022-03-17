@@ -8,4 +8,4 @@ Cách dùng:
 
 Hoặc bạn có thể dùng cách khác là tải file về, giải nén xong lên mạng tìm gõ 'cách thêm extension', làm theo hướng dẫn là được.
 
-Vậy là bạn đã cài đặt xong extension, vào trang WorkingSkill và treo thôi nào :))
+Vậy là bạn đã cài đặt xong extension, vào trang WorkingSkill, bật bài học trong khóa học và treo thôi nào :))
