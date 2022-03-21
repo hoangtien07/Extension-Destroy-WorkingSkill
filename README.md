@@ -10,4 +10,5 @@ Hoặc bạn có thể dùng cách khác là tải file về, giải nén xong l
 
 Vậy là bạn đã cài đặt xong extension, vào trang WorkingSkill, bật bài học trong khóa học lên và treo thôi nào :))
 
-P/s: Mạng chậm hoặc bật nhiều tab WorkingSkill thì slide mới sẽ ko kịp load, khiến cho web quay vòng và ko sang đc bài tiếp theo, bạn bật console lên sẽ thấy request được gửi đi liên tục, nên là muốn nhanh thì từ từ nha ^^.
+P/s: Mạng chậm hoặc bật nhiều tab WorkingSkill thì slide mới sẽ ko kịp load, khiến cho web quay vòng và ko sang đc bài tiếp theo, bạn bật phần mạng trong f12 lên sẽ thấy request được gửi đi liên tục, nên là muốn nhanh thì từ từ nha ^^.
+P/s 2: Không pass được qua bài chọn đáp án
