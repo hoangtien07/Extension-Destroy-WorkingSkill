@@ -1,4 +1,6 @@
 # Extension-Destroy-WorkingSkill
+# Link cài trực tiếp: https://chrome.google.com/webstore/detail/destroy-workingskill-exte/pnkefnelcfglkgfgogjnfnpehblhjgak?hl=vi
+
 Công dụng: như tên repository :))
 
 Cách dùng:
